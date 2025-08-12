@@ -5,9 +5,8 @@
 - My Goals for 2025: 
   * **Become an amazing and blazing fast algorithmic problem solver**
   * **Learn Core CS : Networks, Operating Systems, Database Management systems**
-  * **Learn TypeScript and Backend Development (most probably MERN stack)**
-  * **Learn one systems programming language deeply (either Rust or C++)**
-  * **Learn Stats, Machine Learning, Deep Learning**
+  * **Learn TypeScript and Backend Development (MERN)**
+  * **Learn Stats, Deep Learning (NLP)**
  
   That's too much but I will try my best 😅
 <!---
