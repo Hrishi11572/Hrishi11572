@@ -4,7 +4,7 @@
   
 - My Goals for 2025 [Aug, Sep, Oct, Nov, Dec]: <br>
 
-    ☞  **Complete Az's 500 Algp problems target** <br>
+    ☞  **Complete Az's 500 Algo problems target** <br>
     ☞  **Learn Core CS : Networks, Operating Systems, Database Management systems** <br>
     ☞  **Complete Stats 110 (with assignments)** <br>
     ☞  **Learn Data Analysis (Time Series), Deep Learning (NLP), LLMS** <br>
