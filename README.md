@@ -2,11 +2,12 @@
 - Reiterating my favourite quote : "What I can not create, I do not understand" ~ Feynman
 - All my code is dumped here on Github 🌏
   
-- My Goals for 2025: 
-  * **Become an amazing and blazing fast algorithmic problem solver**
-  * **Learn Core CS : Networks, Operating Systems, Database Management systems**
-  * **Learn TypeScript and Backend Development (MERN)**
-  * **Learn Stats, Deep Learning (NLP)**
+- My Goals for 2025 [Aug, Sep, Oct, Nov, Dec]: <br>
+
+    ☞  **Complete Az's 500 Algp problems target** <br>
+    ☞  **Learn Core CS : Networks, Operating Systems, Database Management systems** <br>
+    ☞  **Complete Stats 110 (with assignments)** <br>
+    ☞  **Learn Data Analysis (Time Series), Deep Learning (NLP), LLMS** <br>
  
   That's too much but I will try my best 😅
 <!---
