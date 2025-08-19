@@ -4,10 +4,10 @@
   
 - My Goals for 2025 [Aug, Sep, Oct, Nov, Dec]: <br>
 
-    ☞  **Complete Az's 500 Algo problems set** <br>
+    ☞  **Complete 500 Algo problems set ... HARD !!** <br>
     ☞  **Learn Core CS : COA, Operating Systems** <br>
     ☞  **Complete Stats 110 (with assignments)** <br>
-    ☞  **Learn Data Analysis (Time Series), Deep Learning (NLP), LLMS** <br>
+    ☞  **Build and break as much as python and cpp code as possible 🐍** <br>
  
   That's too much but I will try my best 😅
 <!---
