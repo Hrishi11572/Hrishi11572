@@ -4,11 +4,11 @@
   
 - My Goals for 2025 [Aug, Sep, Oct, Nov, Dec]: <br>
 
-      ☞   Get comfortable with Math and Computer Science 👾 <br>
-      ☞   Get a tool named MERN stack tamed properly. Network is the key! 🛜 <br>
-      ☞   Get your hands dirty with LLMS and the clean white papers ..  <br>
-      ☞   Complete the lecture series of Gil Strang and stats 110 👴🏻 <br>
-      ☞   Strangely enough, but yeah ... Learn Finance as well 💸 <br>
+      ☞   Get comfortable with Math and Computer Science 👾 
+      ☞   Get a tool named MERN stack tamed properly. Network is the key! 🛜 
+      ☞   Get your hands dirty with LLMS and the clean white papers ..📝
+      ☞   Complete the lecture series of Gil Strang and stats 110 👴🏻 
+      ☞   Strangely enough, but yeah ... Learn Finance as well 💸 
     
   **Build and break a good lot of python, cpp and Js code along the way 🐍** <br>
 <!---
