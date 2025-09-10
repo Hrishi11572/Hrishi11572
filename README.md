@@ -1,14 +1,14 @@
-- Hrishikesh here!
-- Reiterating my favourite quote : "What I can not create, I do not understand" ~ Feynman
+- I am Hrishikesh this side! 
+- Reiterating my favourite quote : <b>"What I can not create, I do not understand" ~ Feynman</b>
 - All my code is dumped here on Github 🌏
   
 - My Goals for 2025 [Aug, Sep, Oct, Nov, Dec]: <br>
 
-    ☞  **Complete Algo problem set ... HARD 👾** <br>
-    ☞  **Get a tool named MERN stack tamed properly. Network is the key! 🛜** <br>
-    ☞  **Complete Stats 110 (with assignments) ... yeah seriously 🎲** <br>
-    ☞  **Complete the lecture series of Gil Strang 👴🏻** <br>
-    ☞  **Strangely enough, but yeah ... Learn Finance as well 💸** <br>
+      ☞   Get comfortable with Math and Computer Science 👾 <br>
+      ☞   Get a tool named MERN stack tamed properly. Network is the key! 🛜 <br>
+      ☞   Get your hands dirty with LLMS and the clean white papers ..  <br>
+      ☞   Complete the lecture series of Gil Strang and stats 110 👴🏻 <br>
+      ☞   Strangely enough, but yeah ... Learn Finance as well 💸 <br>
     
   **Build and break a good lot of python, cpp and Js code along the way 🐍** <br>
 <!---
