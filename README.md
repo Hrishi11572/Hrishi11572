@@ -2,9 +2,9 @@
 - Reiterating my favourite quote : <b>"What I can not create, I do not understand" ~ Feynman</b>
 - All my code is dumped here on Github 🌏
   
-- My Goals for 2025 [Aug, Sep, Oct, Nov, Dec]: <br>
+- My Goals for 2025 : <br>
 
-      ☞   Get comfortable with Math and Computer Science 👾 
+      ☞   Get comfortable with Math and Computer Science (codecrafting) 👾 
       ☞   Get a tool named MERN stack tamed properly. Network is the key! 🛜 
       ☞   Get your hands dirty with LLMS and the clean white papers ..📝
       ☞   Complete the lecture series of Gil Strang and stats 110 👴🏻 
