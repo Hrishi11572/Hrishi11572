@@ -5,7 +5,8 @@
 - My Goals for 2026 : <br>
 
       ☞   Get comfortable with Math and Computer Science (codecrafting) 👾 
-      ☞   Get your hands dirty with LLMS and the clean white papers ..📝 
+      ☞   Get your hands dirty with LLMS and the clean white papers ..📝
+      ☞   Physics awaits my arrival. I want to understand Einstein. 
     
   **Build and break a good lot of python, cpp code along the way 🐍** <br>
 
