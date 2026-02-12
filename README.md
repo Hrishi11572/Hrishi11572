@@ -5,8 +5,6 @@
 - My Goals for 2026 : <br>
 
       ☞   Learn as much math as possible 👾 
-      ☞   Build my own software from lang to os 📝
-      ☞   Physics awaits my arrival. I want to understand Einstein. 
     
   **Build and break a good lot of python, cpp code along the way 🐍** <br>
 
