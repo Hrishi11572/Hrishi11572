@@ -4,7 +4,8 @@
   
 - My Goals for 2026 : <br>
 
-      ☞   Learn as much math as possible 👾 
+      ☞   Learn as much math as possible 👾
+      ☞   At least, try building impossible looking stuff 🦄
     
   **Build and break a good lot of python, cpp code along the way 🐍** <br>
 
