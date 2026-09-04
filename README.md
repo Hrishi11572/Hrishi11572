@@ -6,9 +6,7 @@
 
       ☞   Learn as much math as possible 👾
       ☞   At least, try building impossible looking stuff 🦄
-    
-  **Build and break a good lot of python, cpp code along the way 🐍** <br>
-
+  
   <img src="https://komarev.com/ghpvc/?username=Hrishi11572&label=Profile%20views&color=0e75b6&style=flat" alt="Hrishi11572" />
 <!---
 Hrishi11572/Hrishi11572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
