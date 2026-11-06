@@ -8,7 +8,9 @@
       ☞   Stay strong in Finance fundamentals, derivatives, mathematics.$
       ☞   Finish essential courses: CAOS (incl. labs), RL, Stats110, Gen-AI Math ∮
       ☞   At least, try building impossible looking stuff 🦄
-  
+
+<I>Some things are learnt as and when needed, but the fundamentals must be learnt now.</I>
+
   <img src="https://komarev.com/ghpvc/?username=Hrishi11572&label=Profile%20views&color=0e75b6&style=flat" alt="Hrishi11572" />
 <!---
 Hrishi11572/Hrishi11572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
