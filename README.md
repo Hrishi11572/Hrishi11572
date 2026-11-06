@@ -6,7 +6,7 @@
 
       ☞   Keep up with C++ internals, build systems projects.🛰️
       ☞   Stay strong in Finance fundamentals, derivatives, mathematics.$
-      ☞   Finish essential courses: CAOS (incl. labs), RL, Stats110, Gen-AI Math, Fin-MATH ∮
+      ☞   Finish essential courses: CAOS (incl. labs), RL, Stats110, Gen-AI Math ∮
       ☞   At least, try building impossible looking stuff 🦄
   
   <img src="https://komarev.com/ghpvc/?username=Hrishi11572&label=Profile%20views&color=0e75b6&style=flat" alt="Hrishi11572" />
